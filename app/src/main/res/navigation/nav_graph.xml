@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/nav_graph"
+            app:startDestination="@+id/productsList">
+
+    <fragment
+            android:id="@+id/productsList"
+            android:name="com.contentsquare.android.onlineshop.ui.main.ProductsListFragment"
+            android:label="Products"
+            tools:layout="@layout/products_list">
+        <action
+                android:id="@+id/action_product_toProductDetails"
+                app:destination="@id/productDetails"/>
+    </fragment>
+    <fragment
+            android:id="@+id/productDetails"
+            android:name="com.contentsquare.android.onlineshop.ui.main.ProductDetailsFragment"
+            android:label="Detail"
+            tools:layout="@layout/product_details">
+    </fragment>
+
+</navigation>
