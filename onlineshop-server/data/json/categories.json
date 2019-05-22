@@ -1,0 +1,39 @@
+
+[
+    { 
+      "id": 1,
+      "name": "Tops",
+      "description": "Tops",
+      "color": "#FF3C5C"
+    },
+    {
+      "id": 2,
+      "name": "Dresses",
+      "description": "Dresses",
+      "color": "#E9EFFF"
+    },
+    {
+      "id": 3,
+      "name": "Pants",
+      "description": "Pants",
+      "color": "#00A5F2"
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "description": "Shoes",
+      "color": "#00DCA9"
+    },
+    {
+      "id": 5,
+      "name": "Shoes collections",
+      "description": "Ready to step up your game ? Check out our collection of shoes, -20 % for a limited time only",
+      "color": "#ffffff"
+    },
+    {
+      "id": 6,
+      "name": "Designer collections",
+      "description": "Exclusive selection of designer brands",
+      "color": "#ffffff"
+    }
+]

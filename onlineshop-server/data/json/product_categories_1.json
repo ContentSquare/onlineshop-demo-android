@@ -1,0 +1,178 @@
+     [
+      {
+        "id": 1000,
+        "name": "Faded Short Sleeves T - shirt",
+        "description": "Faded short sleeves t - shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you 're ready for summer!.",
+        "free_delivery": true,
+        "images": [
+          "images/1000_1.jpg",
+          "images/1000_2.jpg",
+          "images/1000_3.jpg"
+        ],
+        "colors": [
+          {
+              "name": "white",
+              "value": "#ffffff"
+          },
+          {
+            "name": "blue",
+            "value": "#0000ff"
+          }
+        ],
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "price": 29.99,
+        "stock": 52554
+      },
+      {
+        "id": 1001,
+        "name": "Short-sleeved blouse",
+        "description": "Short-sleeved blouse with feminine draped sleeve detail.",
+        "free_delivery": true,
+        "images": [
+            "images/1000_1.jpg",
+            "images/1000_2.jpg",
+            "images/1000_3.jpg"
+          ],
+        "colors": [
+            {
+                "name": "white",
+                "value": "#ffffff"
+            },
+            {
+              "name": "green",
+              "value": "#27AE60"
+            }
+        ],
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+          ],
+        "price": 15.99,
+        "stock": 6744
+      },
+      {
+        "id": 1002,
+        "name": "Yellow tshirt",
+        "description": "Oversize cotton tshirt, available in yellow",
+        "free_delivery": true,
+        "images": [
+          "images/1002_1.jpg"
+        ],
+        "colors": [
+            {
+                "name": "white",
+                "value": "#ffffff"
+            },
+            {
+              "name": "black",
+              "value": "#000000"
+            }
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ],
+        "price": 10.99,
+        "stock": 585473
+      },
+      {
+        "id": 1003,
+        "name": "Button down shirt",
+        "description": "Crispy white shirt for any occasion",
+        "free_delivery": true,
+        "images": [
+          "images/1003_1.jpg"
+        ],
+        "colors": [
+            {
+                "name": "white",
+                "value": "#ffffff"
+            },
+            {
+                "name": "green",
+                "value": "#27AE60"
+            },
+            {
+              "name": "black",
+              "value": "#000000"
+            }
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "price": 22.99,
+        "stock": 5466
+      },
+      {
+        "id": 1004,
+        "name": "Striped tshirt",
+        "description": "striped tshirt for everyday use. 3/4 length sleeves",
+        "free_delivery": true,
+        "images": [
+          "images/1004_1.jpg",
+          "images/1004_2.jpg"
+        ],
+        "colors": [
+            {
+                "name": "white",
+                "value": "#ffffff"
+            },
+            {
+                "name": "green",
+                "value": "#27AE60"
+            },
+            {
+              "name": "red",
+              "value": "#E74C3C"
+            }
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "price": 5.99,
+        "stock": 5256
+      },
+      {
+        "id": 4001,
+        "name": "High heeled opentoe shoes",
+        "description": "High heeled opentoe shoes for summery occasions",
+        "free_delivery": true,
+        "images": [
+          "images/4001_1.jpg",
+          "images/4001_2.jpg",
+          "images/4001_3.jpg"
+        ],
+        "colors": [
+            {
+                "name": "green",
+                "value": "#27AE60"
+            },
+            {
+              "name": "red",
+              "value": "#E74C3C"
+            }
+        ],
+        "sizes": [
+            "XL",
+            "XXL"
+        ],
+        "price": 45.99,
+        "stock": 5348
+      }
+]
